@@ -1,0 +1,15 @@
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\BIM-ISO8583.NET.dll
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\ISO_8583_MessageSandbox.exe
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\ISO_8583_MessageSandbox.pdb
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\iso8583.dll
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConvHelper.dll
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\Logger.dll
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\iso8583.pdb
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConvHelper.pdb
+F:\ISO8583\MyApplication\ConsoleApplication1\ConsoleApplication1\bin\Debug\Logger.pdb
